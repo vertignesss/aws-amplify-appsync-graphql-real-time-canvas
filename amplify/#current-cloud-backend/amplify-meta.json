@@ -1,0 +1,15 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tryrtc-dev-93239-authRole",
+            "UnauthRoleArn": "arn:aws:iam::493227556020:role/amplify-tryrtc-dev-93239-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::493227556020:role/amplify-tryrtc-dev-93239-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-tryrtc-dev-93239-deployment",
+            "UnauthRoleName": "amplify-tryrtc-dev-93239-unauthRole",
+            "StackName": "amplify-tryrtc-dev-93239",
+            "StackId": "arn:aws:cloudformation:us-east-2:493227556020:stack/amplify-tryrtc-dev-93239/dc778280-a49a-11ea-975e-0a8046302794",
+            "AmplifyAppId": "d206921h18zyx2"
+        }
+    }
+}

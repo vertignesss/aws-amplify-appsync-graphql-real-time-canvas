@@ -1,0 +1,48 @@
+{
+    "paths": [
+        {
+            "name": "/items",
+            "lambdaFunction": "tryrtc4701e070",
+            "privacy": {
+                "protected": true,
+                "auth": [
+                    "/POST",
+                    "/GET",
+                    "/PUT",
+                    "/PATCH",
+                    "/DELETE"
+                ],
+                "unauth": [
+                    "/POST",
+                    "/GET",
+                    "/PUT",
+                    "/PATCH",
+                    "/DELETE"
+                ]
+            }
+        }
+    ],
+    "resourceName": "api3264895f",
+    "apiName": "api3264895f",
+    "functionArns": [
+        {
+            "lambdaFunction": "tryrtc4701e070"
+        }
+    ],
+    "privacy": {
+        "auth": 1,
+        "unauth": 1,
+        "authRoleName": "amplify-tryrtc-dev-93239-authRole",
+        "unAuthRoleName": "amplify-tryrtc-dev-93239-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "tryrtc4701e070",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}

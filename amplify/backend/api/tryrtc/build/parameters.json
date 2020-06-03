@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "tryrtc",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "S3DeploymentBucket": "amplify-tryrtc-dev-93239-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/cc7ea09ab5d5ed48e7ca369d72bbc82cc12861c3"
+}

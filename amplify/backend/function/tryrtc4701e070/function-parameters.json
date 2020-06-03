@@ -1,0 +1,12 @@
+{
+    "permissions": {
+        "storage": {
+            "dynamo9adfc9a7": [
+                "create",
+                "read",
+                "update",
+                "delete"
+            ]
+        }
+    }
+}
